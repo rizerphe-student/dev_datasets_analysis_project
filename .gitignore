@@ -159,3 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+
+# Datasets
+stack-overflow-developer-survey-2022/
+stack-overflow-developer-survey-2021/
+stack-overflow-developer-survey-2022.zip
+stack-overflow-developer-survey-2021.zip
